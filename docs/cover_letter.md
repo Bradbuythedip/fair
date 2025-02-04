@@ -4,18 +4,16 @@ Bradley W. Merrill
 bwmengineer428@gmail.com
 https://github.com/Bradbuythedip
 
-Fair-Rite Products Corp.
-Wallkill, NY
 
-Dear Hiring Manager,
+Dear Fair-rite hiring team,
 
-I am writing to express my strong interest in the Custom Solutions Engineer position at Fair-Rite Products Corp. With over 10 years of experience in mechanical engineering, automation, and product development, combined with my recent work in high-power electronics at Nuvera Fuel Cells, I am excited about the opportunity to contribute to Fair-Rite's innovative ferrite solutions.
+I am writing to express my interest in the Custom Solutions Engineer position at Fair-Rite Products Corp. With over 10 years of experience in mechanical engineering, automation, and product development, combined with my recent work in high-power at Nuvera Fuel Cells, I am excited about the opportunity to contribute to Fair-Rite's innovative ferrite solutions.
 
-My experience aligns perfectly with the key requirements of this role:
+I believe my experience aligns well with the key requirements of this role:
 
 1. Technical Expertise:
    - Led research on insulation resistance and Dielectric Withstand Voltage at Nuvera Fuel Cells
-   - Extensive experience with CAD software and manufacturing processes
+   - Extensive experience with CAD software and manufacturing processes, CSWA CSWE certifications.
    - Strong background in process optimization and quality control
 
 2. Customer-Focused Solutions:
@@ -26,7 +24,7 @@ My experience aligns perfectly with the key requirements of this role:
 3. Manufacturing Innovation:
    - Expertise in advanced manufacturing techniques including 3D printing
    - Track record of implementing cost-saving automation solutions
-   - Strong understanding of quality standards and compliance requirements
+   - Strong understanding of quality standards, compliance requirements, and GD&T
 
 I am particularly excited about three opportunities I see at Fair-Rite:
 
@@ -36,7 +34,7 @@ I am particularly excited about three opportunities I see at Fair-Rite:
 
 3. Technical Leadership: Having worked with high-speed connectors and power systems, I understand the critical role of ferrite components in modern electronics and can help guide customers to optimal solutions.
 
-I recently researched the potential of binder jet technology for ferrite manufacturing, and I see exciting possibilities for Fair-Rite to lead innovation in this space. I would welcome the opportunity to discuss how my experience and ideas could contribute to Fair-Rite's continued success.
+I recently researched the potential of binder jet technology for ferrite manufacturing: https://github.com/Bradbuythedip/fair/tree/main/public/research , and I see exciting possibilities for Fair-Rite to lead innovation in this space. I would welcome the opportunity to discuss how my experience and ideas could contribute to Fair-Rite's continued success.
 
 Thank you for considering my application. I look forward to discussing how I can contribute to Fair-Rite's team.
 
