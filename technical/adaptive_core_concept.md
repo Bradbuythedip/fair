@@ -99,7 +99,7 @@ Layer 4: Control integration
 
 2. Performance Targets
    - Power transfer efficiency: >93%
-   - Position tolerance: ±20mm
+   - Position tolerance: ±20um
    - Thermal stability: <50°C rise
 
 ## Future Development
