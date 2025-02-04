@@ -150,7 +150,7 @@ Certifications  | $0.4M      | Q3-Q4 2025
 
 ### 3.3 Key Milestones
 
-```mermaid
+```
 timeline
     title Key Development Milestones
     section Q1 2025
